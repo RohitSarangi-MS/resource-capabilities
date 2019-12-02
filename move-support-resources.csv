@@ -300,9 +300,9 @@ Microsoft.TimeSeriesInsights/environments/eventsources,1,1
 Microsoft.TimeSeriesInsights/environments/referencedatasets,1,1
 Microsoft.Token/stores,0,0
 Microsoft.VirtualMachineImages/imagetemplates,0,0
-microsoft.visualstudio/account,1,1
-microsoft.visualstudio/account/extension,1,1
-microsoft.visualstudio/account/project,1,1
+microsoft.visualstudio/account,0,0
+microsoft.visualstudio/account/extension,0,0
+microsoft.visualstudio/account/project,0,0
 Microsoft.VMwareCloudSimple/dedicatedcloudnodes,0,0
 Microsoft.VMwareCloudSimple/dedicatedcloudservices,0,0
 Microsoft.VMwareCloudSimple/virtualmachines,0,0
